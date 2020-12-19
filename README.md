@@ -1,4 +1,4 @@
-This case requires trainees to develop a customer segmentation to define marketing strategy. The sample dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
+This case requires to develop a customer segmentation to define marketing strategy. The sample dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
 Expectations from the candidate:
 •	Advanced data preparation: Build an ‘enriched’ customer profile by deriving “intelligent” KPIs such as:
     o	Monthly average purchase and cash advance amount
